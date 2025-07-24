@@ -1,4 +1,4 @@
-# Codes for the paper: 'Thick Disks around White Dwarfs viewed "Edge-odd": Effects on Transit Properties and Infrared Excess' by Bhattacharjee 2025.
+# Codes for the paper: 'Thick Disks around White Dwarfs (viewed "Edge-off"): Effects on Transit Properties and Infrared Excess' by Bhattacharjee 2025.
 
 modeling_transits.ipynb : This notebook contains the codes for the thick disk transit model developed in Section 2 and reproduces the plots in paper.
 
